@@ -27,4 +27,5 @@ function addTodo(event) {
     todoList.appendChild(todoDiv);
     // 
     todoInput.value = "";
+    console.log('hello, this is a test change')
 }
